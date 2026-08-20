@@ -1,2 +1,2 @@
-🌐 **Portfolio:** [tewachew-portfolio.netlify.app](https://tewachew-portfolio.netlify.app)# Tewachew-portfolio-
+https://tewachew-portfolio.netlify.app
 My professional IT, Networking and Web Development portfolio.
